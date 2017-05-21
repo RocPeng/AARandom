@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8">
+		<title>修改组名称</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1,maximum-scale=1,user-scalable=no">
+		<link rel="stylesheet" href="../css/mui.min.css">
+	</head>
+
+	<body>
+		<h3>真随机算法</h1>
+		<div class="mui-content listener">
+			<div class="mui-content-padded">
+				<div>姓名</div>
+				<input type="text" style="float: left" placeholder="玩家1" maxlength="16" required="required" id="groupName" v-model="name1" />
+				<input type="text" style="float: left" placeholder="玩家2" maxlength="16" required="required" id="groupName" v-model="name2" />
+				<input type="text" style="float: left" placeholder="玩家3" maxlength="16" required="required" id="groupName" v-model="name3" />
+				<input type="text" style="float: left" placeholder="玩家4" maxlength="16" required="required" id="groupName" v-model="name4" />
+				<input type="text" style="float: left" placeholder="玩家5" maxlength="16" required="required" id="groupName" v-model="name5" />
+				<input type="text" style="float: left" placeholder="玩家6" maxlength="16" required="required" id="groupName" v-model="name6" />
+			</div>
+			<div class="mui-content-padded">
+				<div>金额</div>
+				<input type="text" style="float: left" placeholder="花费" maxlength="16" required="required" id="groupName" v-model="money" />
+			</div>
+			<div class="mui-content-padded">
+				<button class="mui-btn-block mui-btn-blue " @click="_cal()">计算</button>
+			</div>
+			<div class="mui-content-padded">
+				<span  type="text">{{name1}}:</span>
+				<span>{{value1}}</span><br />
+				<span  type="text">{{name2}}:</span>
+				<span>{{value2}}</span><br />
+				<span  type="text">{{name3}}:</span>
+				<span>{{value3}}</span><br />
+				<span  type="text">{{name4}}:</span>
+				<span>{{value4}}</span><br />
+				<span  type="text">{{name5}}:</span>
+				<span>{{value5}}</span><br />
+				<span  type="text">{{name6}}:</span>
+				<span>{{value6}}</span><br />
+			</div>
+		</div>
+
+		<script src="../js/mui.min.js"></script>
+		<script src="../js/zepto.min.js"></script>
+		<script src="../js/umsapp-sdk.js"></script>
+
+		<!-- render engine-->
+		<script src="../js/vue.min.js"></script>
+		<script src="../js/app.js"></script>
+		<script src="../js/render.js"></script>
+		<script>
+			var vm = new Vue({
+				el: 'body',
+				data: {
+					roomId: '',
+					name1: '龙哥',
+					name2: '赵放',
+					name3: '王权',
+					name4: '万晓鹏',
+					name5: '赵鑫',
+					name6: '张凯',
+					money: '79.7',
+					value1: '',
+					value2: '',
+					value3: '',
+					value4: '',
+					value5: '',
+					value6: ''
+				},
+				computed: {
+					enable: function() {
+						return this.name.trim().length < 2;
+					}
+				},
+				methods: {
+					_cal: function(){
+						if(this.name3==""){
+							this._cal2()
+						}else if(this.name4==""){
+							this._cal3()
+						}else if(this.name5==""){
+							this._cal4()
+						}else if(this.name6==""){
+							this._cal5()
+						}else{
+							this._cal6()
+						}
+					},
+					_cal2: function(){
+						var left = this.money
+						var max = (this.money/6)*2
+						this.value1 = GetRandomNum(0.01,max)
+						this.value2 = left-this.value1
+						this.value2=this.value2.toFixed(2)
+					},
+					_cal3: function(){
+						var left = this.money
+						var max = (this.money/6)*2
+						this.value1 = GetRandomNum(0.01,max)
+						left = left-this.value1
+						max = (left/5)*2
+						this.value2 = GetRandomNum(0.01,max)
+						this.value3 = left-this.value2
+						this.value3=this.value3.toFixed(2)
+					},
+					_cal4: function(){
+						var left = this.money
+						var max = (this.money/6)*2
+						this.value1 = GetRandomNum(0.01,max)
+						left = left-this.value1
+						max = (left/5)*2
+						this.value2 = GetRandomNum(0.01,max)
+						left = left-this.value2
+						max = (left/4)*2
+						this.value3 = GetRandomNum(0.01,max)
+						this.value4 = left-this.value3
+						this.value4=this.value4.toFixed(2)
+					},
+					_cal5: function(){
+						var left = this.money
+						var max = (this.money/6)*2
+						this.value1 = GetRandomNum(0.01,max)
+						left = left-this.value1
+						max = (left/5)*2
+						this.value2 = GetRandomNum(0.01,max)
+						left = left-this.value2
+						max = (left/4)*2
+						this.value3 = GetRandomNum(0.01,max)
+						left = left-this.value3
+						max = (left/3)*2
+						this.value4 = GetRandomNum(0.01,max)
+						this.value5 = left-this.value4
+						this.value5=this.value5.toFixed(2)
+					},
+					_cal6: function(){
+						var left = this.money
+						var max = (this.money/6)*2
+						this.value1 = GetRandomNum(0.01,max)
+						left = left-this.value1
+						max = (left/5)*2
+						this.value2 = GetRandomNum(0.01,max)
+						left = left-this.value2
+						max = (left/4)*2
+						this.value3 = GetRandomNum(0.01,max)
+						left = left-this.value3
+						max = (left/3)*2
+						this.value4 = GetRandomNum(0.01,max)
+						left = left-this.value4
+						max = (left/2)*2
+						this.value5 = GetRandomNum(0.01,max)
+						this.value6 = left-this.value5
+						this.value6=this.value6.toFixed(2)
+					}
+				}
+			});
+			var options = {
+				onRender: function(vm, rs) {
+					vm.roomId = rs.roomId;
+					vm.name = rs.name;
+				}
+			}
+			render.bind();
+
+			function GetRandomNum(Min, Max) {
+				var Range = Max - Min;
+				var Rand = Math.random();
+				var num = Min +(Rand * Range);
+				num = num.toFixed(2)
+				return num;
+			}
+
+			function _calculate() {
+//				var left = (this.money/4)*2
+				alert(this.money)
+			}
+		</script>
+
+	</body>
+
+</html>

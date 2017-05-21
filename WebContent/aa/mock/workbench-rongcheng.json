@@ -1,0 +1,262 @@
+{
+	"adSlides": [
+    ],
+	"success": true,
+	"errcode": 0,
+	"bizGroups": [
+		{
+			"groupName": "移动办公",
+			"businesses": [
+				{
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+					"sort": 0,
+					"status": "Y",
+					"name": "接口业务",
+					"businessId": "572ff8bb8e82416e8ec33d34",
+					"url": "http://127.0.0.1:8020/yxt-single-page/html/notfound.html"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+					"sort": 1,
+					"status": "Y",
+					"name": "短信",
+					"businessId": "572ff8bb8e82416e8ec33d33",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+					"sort": 3,
+					"status": "Y",
+					"name": "微信",
+					"businessId": "572ff8bb8e82416e8ec33d36",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+					"sort": 4,
+					"status": "Y",
+					"name": "流量直通车",
+					"businessId": "572ff8bb8e82416e8ec33d35",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+					"sort": 5,
+					"status": "Y",
+					"name": "e信",
+					"businessId": "572ff8bb8e82416e8ec33d32",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}
+			]
+		},
+		{
+			"groupName": "酒店管理",
+			"businesses": [
+				{
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+					"sort": 0,
+					"status": "Y",
+					"name": "酒店介绍",
+					"note":"酒店业务的介绍",
+					"businessId": "572ff8bb8e82416e8ec33d34",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+					"sort": 1,
+					"status": "Y",
+					"name": "订阅房间",
+					"note":"发送短信订阅酒店房间",
+					"businessId": "572ff8bb8e82416e8ec33d33",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+					"sort": 3,
+					"status": "Y",
+					"name": "微信",
+					"businessId": "572ff8bb8e82416e8ec33d36",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+					"sort": 4,
+					"status": "Y",
+					"name": "流量直通车",
+					"businessId": "572ff8bb8e82416e8ec33d35",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+					"sort": 5,
+					"status": "Y",
+					"name": "e信",
+					"businessId": "572ff8bb8e82416e8ec33d32",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}
+			]
+		},
+		{
+			"groupName": "企业办公",
+			"businesses": []
+		},
+		{
+			"groupName": "附近商店",
+			"businesses": []
+		},
+		{
+			"groupName": "医疗保障",
+			"businesses": []
+		},
+		{
+			"groupName": "移动通讯",
+			"businesses": []
+		},
+		{
+			"groupName": "社会招聘",
+			"businesses": [
+				{
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+					"sort": 0,
+					"status": "Y",
+					"name": "人才引进",
+					"note":"对人才高度重视和关注",
+					"businessId": "572ff8bb8e82416e8ec33d34",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+					"sort": 1,
+					"status": "Y",
+					"name": "落户办公",
+					"note":"过7年自动落户",
+					"businessId": "572ff8bb8e82416e8ec33d33",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+					"sort": 3,
+					"status": "Y",
+					"name": "家庭教育",
+					"businessId": "572ff8bb8e82416e8ec33d36",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+					"sort": 4,
+					"status": "Y",
+					"name": "人才保护",
+					"businessId": "572ff8bb8e82416e8ec33d35",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+					"sort": 5,
+					"status": "Y",
+					"name": "才人就业",
+					"businessId": "572ff8bb8e82416e8ec33d32",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}
+			]
+		},
+		{
+			"groupName": "跨进电商",
+			"businesses": [
+				{
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+					"sort": 0,
+					"status": "Y",
+					"name": "酒店介绍",
+					"note":"酒店业务的介绍",
+					"businessId": "572ff8bb8e82416e8ec33d34",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+					"sort": 1,
+					"status": "Y",
+					"name": "订阅房间",
+					"note":"发送短信订阅酒店房间",
+					"businessId": "572ff8bb8e82416e8ec33d33",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+					"sort": 3,
+					"status": "Y",
+					"name": "微信",
+					"businessId": "572ff8bb8e82416e8ec33d36",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+					"sort": 4,
+					"status": "Y",
+					"name": "流量直通车",
+					"businessId": "572ff8bb8e82416e8ec33d35",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+					"sort": 5,
+					"status": "Y",
+					"name": "e信",
+					"businessId": "572ff8bb8e82416e8ec33d32",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}
+			]
+		},
+		{
+			"groupName": "本地旅游",
+			"businesses": [
+				{
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+					"sort": 0,
+					"status": "Y",
+					"name": "酒店介绍",
+					"note":"酒店业务的介绍",
+					"businessId": "572ff8bb8e82416e8ec33d34",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+					"sort": 1,
+					"status": "Y",
+					"name": "订阅房间",
+					"note":"发送短信订阅酒店房间",
+					"businessId": "572ff8bb8e82416e8ec33d33",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+					"sort": 3,
+					"status": "Y",
+					"name": "微信",
+					"businessId": "572ff8bb8e82416e8ec33d36",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+					"sort": 4,
+					"status": "Y",
+					"name": "流量直通车",
+					"businessId": "572ff8bb8e82416e8ec33d35",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}, {
+					"message": 0,
+					"icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+					"sort": 5,
+					"status": "Y",
+					"name": "e信",
+					"businessId": "572ff8bb8e82416e8ec33d32",
+					"url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/02aeba8d28448f7a49e890deef13ed715db8ca9dc82730f3986f5b3d39b62334c56d2e3f905bbff99a6f7a03dfadce84"
+				}
+			]
+		}
+	]
+}

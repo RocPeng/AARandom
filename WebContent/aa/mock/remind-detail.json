@@ -1,0 +1,33 @@
+[
+    {
+        "type": "unreceivedMembers",
+        "members": []
+    },
+    {
+        "type": "unconfirmedMembers",
+        "members": [
+            {
+                "dateRead": 1466582658362,
+                "icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/avatar/573060e18e82410c09a64aaf?_d=1466156414000",
+                "memberId": "573060e18e82410c09a64aaf",
+                "name": "万晓鹏"
+            },
+            {
+                "dateRead": 1467078401197,
+                "icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/avatar/573060e28e82410c09a64ab2?_d=1463540948000",
+                "memberId": "573060e28e82410c09a64ab2",
+                "name": "汪春燕"
+            },
+            {
+                "dateRead": 1466584223891,
+                "icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/avatar/573060e28e82410c09a64ab5?_d=1463540948000",
+                "memberId": "573060e28e82410c09a64ab5",
+                "name": "何绍勇"
+            }
+        ]
+    },
+    {
+        "type": "confirmedMembers",
+        "members": []
+    }
+]

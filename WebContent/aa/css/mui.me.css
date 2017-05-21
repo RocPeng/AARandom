@@ -1,0 +1,107 @@
+.me-top{
+	height: 180px;
+	background:url(../img/person_pic.jpg);
+	background-size: cover;
+}
+.me-top .me-top-ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.me-top .me-top-ul .me-top-ul-text{
+	padding-top: 5px;
+	font-size: 20px;
+	color: #FFFFFF;
+	text-align: center;
+}
+.me-top .me-top-ul .me-top-ul-img{
+	height: 60px;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.me-top .me-top-ul .me-top-ul-img img{
+	height: 60px;
+	width: 60px;
+	border-radius:50%;
+	border:2px solid #fff
+}
+
+.mui-table-view {
+	margin-top: 20px;
+}
+
+.mui-table-view:first-child {
+	margin-top: 10px;
+}
+
+.mui-table-view:first-child .mui-table-view-cell {
+	padding-right: 50px;
+}
+
+.head {
+	height: 40px;
+	line-height: 40px;
+}
+
+#head-img {
+	border-radius: 100%;
+	-webkit-border-radius: 100%;
+}
+
+.qr {
+	width: 25px;
+	margin-top: 5px;
+}
+.mui-content-padded{
+	padding-left: 20px;
+	padding-right: 20px;
+	background: transparent;
+}
+.mui-table-view:before {
+    position: absolute;
+    right: 0;
+    left: 0;
+    height: 0px;
+    content: '';
+    -webkit-transform: scaleY(.5);
+    transform: scaleY(.5);
+    background-color: #11BBEE;
+    top: -1px;
+}
+.mui-table-view:after {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 0px;
+    content: '';
+    -webkit-transform: scaleY(.5);
+    transform: scaleY(.5);
+    background-color: #11BBEE;
+}
+
+.mui-table-view-cell>a:not(.mui-navigate-right).mui-active{
+	background-color: #fb2b2b;
+}
+
+.mui-table-view-chevron:before{
+	position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    content: '';
+    -webkit-transform: scaleY(.5);
+    transform: scaleY(.5);
+    background-color: #c8c7cc
+}
+.mui-table-view-chevron:after{
+	position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 1px;
+    content: '';
+    -webkit-transform: scaleY(.5);
+    transform: scaleY(.5);
+    background-color: #c8c7cc
+}

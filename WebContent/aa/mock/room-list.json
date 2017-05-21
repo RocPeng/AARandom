@@ -1,0 +1,48 @@
+{
+	"total": 1,
+	"unread": 0,
+	"success": true,
+	"errcode": 0,
+	"rooms": [
+		{
+			"silent": false,
+			"message": "在对象集合的元素上触发指定的事件。事件可以是一个字符串类型",
+			"icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/chat-room-icon/576366e28e824127629bbd9f",
+			"sentTime": 1466133730903,
+			"roomType": "group",
+			"status": "Y",
+			"name": "陈佳佳、万晓鹏、陈晓宁",
+			"numMembers": 3,
+			"unread": 1,
+			"roomId": "576366e28e824127629bbd9f",
+			"creator": "573060e18e82410c09a64aaf"
+		},
+		{
+			"silent": false,
+			"message": "在对象集合的元素上触发指定的事件。事件可以是一个字符串类型",
+			"icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/chat-room-icon/576366e28e824127629bbd9f",
+			"sentTime": 1466133730903,
+			"roomType": "group",
+			"status": "Y",
+			"name": "陈佳佳、万晓鹏、陈晓宁",
+			"numMembers": 3,
+			"unread": 3,
+			"roomId": "576366e28e824127629bbd9f",
+			"creator": "573060e18e82410c09a64aaf"
+		},
+		{
+			"silent": false,
+			"message": "一个对象，键是观察表达式，值是对应回调。",
+			"icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/chat-room-icon/576366e28e824127629bbd9f",
+			"sentTime": 1466133730903,
+			"roomType": "group",
+			"status": "Y",
+			"name": "陈佳佳、万晓鹏、陈晓宁",
+			"numMembers": 3,
+			"unread": 12,
+			"roomId": "576366e28e824127629bbd9f",
+			"creator": "573060e18e82410c09a64aaf"
+		}
+		
+	]
+}

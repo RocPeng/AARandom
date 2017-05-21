@@ -1,0 +1,30 @@
+{
+	"contactId": "573c0ca38e82417747429d51",
+	"memberId": "57329cf08e82416829f21ebe",
+	"name": "陈晓宁",
+	"pinyin": "chen2xiao3ning2",
+	"stared": "Y",
+	"search": "13764268709陈晓宁chenxiaoning",
+	"mobile": "13636545620",
+	"dateCreated": 1463553187000,
+	"dateUpdated": null,
+	"gender": "M",
+	"post": "工程师",
+	"email": "23740923472398@qq.com",
+	"avatar": "http://echat-prod.oss-cn-hangzhou.aliyuncs.com/umsapp_prod6/avatar/57304b60ce1f3d5c948a530a?_d=1465196385",
+	"ext": [
+		{
+			"label": "出生日期",
+			"name": "birthday",
+			"value": ""
+		}, {
+			"label": "所属城市",
+			"name": "city",
+			"value": "上海浦东"
+		}, {
+			"label": "固定电话",
+			"name": "fixedmdn",
+			"value": "727297"
+		}
+	]
+}

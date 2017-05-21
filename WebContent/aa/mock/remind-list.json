@@ -1,0 +1,23 @@
+{
+  "success" : true,
+  "alerts" : [
+    {
+      "revoked" : false,
+      "countConfirmed" : 1,
+      "senderId" : "57304b4bce1f3d5c948a50fb",
+      "dateCreated" : 1463996389801,
+      "title" : "明天下午3点扶贫会议",
+      "alertId" : "5742cfe5ce1f3d19bea19415",
+      "confirmed" : false,
+      "countUnreceived" : 14,
+      "countReceived" : 14,
+      "senderIcon" : "http:\/\/echat-prod.oss-cn-hangzhou.aliyuncs.com\/umsapp_prod6\/avatar\/57304b4bce1f3d5c948a50fb?_d=1467082748000",
+      "countUnconfirmed" : 25,
+      "dateRead" : 1467017179246,
+      "senderName" : "薛长安",
+      "dateAlert" : 1463996460000,
+      "content" : "市办公室、请准时参加！"
+    }
+  ],
+  "errcode" : 0
+}

@@ -1,0 +1,27 @@
+{
+    "id": "18",
+    "icon": "http: //echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/chat-room-icon/576366e28e824127629bbd9f?_d=1467964180411",
+    "silent": true,
+    "sentTime": "1468302146622",
+    "roomType": "",
+    "status": "Y",
+    "name": "万晓鹏、陈晓宁、何绍勇",
+    "roomId": "576366e28e824127629bbd9f",
+    "creator": "573060e18e82410c09a64aaf",
+    "members": [
+        {
+            "id": "64",
+            "icon": "http://echat-prod.oss-cn-hangzhou.aliyuncs.com/umsapp_prod6/avatar/57305fadce1f3d114df927ec?_d=1469440836000",
+            "roomId": "576366e28e824127629bbd9f",
+            "memberId": "573060e08e82410c09a64aa9",
+            "name": "陈晓宁"
+        },
+        {
+            "id": "63",
+            "icon": "http://echat-prod.oss-cn-hangzhou.aliyuncs.com/umsapp_prod6/avatar/57305fadce1f3d114df927f2?_d=1469440837000",
+            "roomId": "576366e28e824127629bbd9f",
+            "memberId": "573060e18e82410c09a64aaf",
+            "name": "万晓鹏"
+        }
+    ]
+}

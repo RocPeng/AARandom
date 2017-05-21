@@ -1,0 +1,166 @@
+{
+    "adSlides": [
+        {
+            "image": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/ad-slide/5763c1c68e824127629bbef5",
+            "url": "http://www.baidu.com"
+        },
+        {
+            "image": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/ad-slide/5763c1c68e824127629bbef6",
+            "url": "http://www.flaginfo.com.cn"
+        }
+    ],
+    "success": true,
+    "errcode": 0,
+    "bizGroups": [
+        {
+            "groupName": "移动办公1",
+            "businesses": [
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+                    "sort": 0,
+                    "status": "Y",
+                    "name": "接口业务",
+                    "businessId": "572ff8bb8e82416e8ec33d34",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+                    "sort": 1,
+                    "status": "Y",
+                    "name": "短信",
+                    "businessId": "572ff8bb8e82416e8ec33d33",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+                    "sort": 3,
+                    "status": "Y",
+                    "name": "微信",
+                    "businessId": "572ff8bb8e82416e8ec33d36",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+                    "sort": 4,
+                    "status": "Y",
+                    "name": "大会列席人员",
+                    "businessId": "572ff8bb8e82416e8ec33d35",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+                    "sort": 5,
+                    "status": "Y",
+                    "name": "H5接口",
+                    "businessId": "572ff8bb8e82416e8ec33d32",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                }
+            ]
+        },
+        {
+            "groupName": "移动办公2",
+            "businesses": [
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+                    "sort": 0,
+                    "status": "Y",
+                    "name": "接口业务",
+                    "businessId": "572ff8bb8e82416e8ec33d34",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+                    "sort": 1,
+                    "status": "Y",
+                    "name": "短信",
+                    "businessId": "572ff8bb8e82416e8ec33d33",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+                    "sort": 3,
+                    "status": "Y",
+                    "name": "微信",
+                    "businessId": "572ff8bb8e82416e8ec33d36",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+                    "sort": 4,
+                    "status": "Y",
+                    "name": "大会列席人员",
+                    "businessId": "572ff8bb8e82416e8ec33d35",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+                    "sort": 5,
+                    "status": "Y",
+                    "name": "H5接口",
+                    "businessId": "572ff8bb8e82416e8ec33d32",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                }
+            ]
+        },
+        {
+            "groupName": "移动办公3",
+            "businesses": [
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqpDSAQAvOAAANGUwjC3c684.png?_d=1463365025000",
+                    "sort": 0,
+                    "status": "Y",
+                    "name": "接口业务",
+                    "businessId": "572ff8bb8e82416e8ec33d34",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d34/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqo4WAcTh1AAAM8NB4VeM021.png?_d=1463365025000",
+                    "sort": 1,
+                    "status": "Y",
+                    "name": "短信",
+                    "businessId": "572ff8bb8e82416e8ec33d33",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d33/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpIyACDeHAAAbnVtnLRo153.png?_d=1463365025000",
+                    "sort": 3,
+                    "status": "Y",
+                    "name": "微信",
+                    "businessId": "572ff8bb8e82416e8ec33d36",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d36/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZ1cqpBeAB_ZaAAASOAZbwJc208.png?_d=1463365025000",
+                    "sort": 4,
+                    "status": "Y",
+                    "name": "大会列席人员",
+                    "businessId": "572ff8bb8e82416e8ec33d35",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d35/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                },
+                {
+                    "message": 0,
+                    "icon": "http://pic.ums86.com/G1/M00/00/51/wKgCZlcqo_WAMgxUAAAWH48VQ6A089.png?_d=1463365025000",
+                    "sort": 5,
+                    "status": "Y",
+                    "name": "H5接口",
+                    "businessId": "572ff8bb8e82416e8ec33d32",
+                    "url": "http://120.26.205.68:6868/echat-app-cloud/biz/visit/572ff8bb8e82416e8ec33d32/8ff26b59893ed8cb4951ff3ab9d2e4055c4567f1dda8d1d1c4f9c481e8e69463b5494e63e1b17cdd49cfdb1140f3d149"
+                }
+            ]
+        }
+    ]
+}

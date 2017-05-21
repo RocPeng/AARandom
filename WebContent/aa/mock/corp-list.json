@@ -1,0 +1,43 @@
+{
+	"corps": [
+		{
+			"icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/corp-icon/572ff8ba8e82416e8ec33d31?_d=1463369606",
+			"hasMessage": false,
+			"voipConfig": {
+				"numMaxCall": 20,
+				"numMaxMultiCall": 8,
+				"callCenterNum": "02150806677",
+				"numMaxConferenceBridge": 10,
+				"numMultiCall": 10,
+				"numExtension": 200,
+				"numMaxConference": 10
+			},
+			"name": "一信通测试",
+			"unread": 20,
+			"memberId": "573060e18e82410c09a64aaf",
+			"fullName": "一信通测试",
+			"type": "C",
+			"corpId": "572ff8ba8e82416e8ec33d31"
+		}, {
+			"icon": "http://echat-sit.oss-cn-hangzhou.aliyuncs.com/echat_sit/corp-icon/572c37488e824113a35e1e51",
+			"hasMessage": true,
+			"voipConfig": {
+				"numMaxCall": 20,
+				"numMaxMultiCall": 8,
+				"callCenterNum": "02150806677",
+				"numMaxConferenceBridge": 10,
+				"numMultiCall": 10,
+				"numExtension": 200,
+				"numMaxConference": 10
+			},
+			"name": "云南流量测试账号",
+			"unread": 1,
+			"memberId": "57329cf08e82416829f21ed2",
+			"fullName": "云南流量测试账号",
+			"type": "C",
+			"corpId": "572c37488e824113a35e1e51"
+		}
+	],
+	"success": true,
+	"errcode": 0
+}
